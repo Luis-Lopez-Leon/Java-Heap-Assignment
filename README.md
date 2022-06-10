@@ -2,9 +2,9 @@
 Spring 2022 Data Structures &amp; Algorithms Assignment 4
 
 Download the code provided by the textbook in order to complete this program.
-This is a two part assignment. Part II is a BONUS part.
 
-Part I: An experimental Algorithm for mapping a Heap Array into a Binary Tree
+
+An experimental Algorithm for mapping a Heap Array into a Binary Tree
 You are asked to write a program that maps a Heap that is stored in an array to a Binary Tree.
 The following is the list of steps to take:
 
